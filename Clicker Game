@@ -33,3 +33,6 @@
     document.getElementById('score').innerText = counter;
   };
 </script>
+
+<!-- Epic updated version: https://replit.com/@DanielKolbin/Clicker-Game?v=1 -->
+<!-- Original code from Will (@cyberbotmachines on HubPages) posted on September 4, 2021. Edited and improved by Daniel, ChatGPT, and Bard in August 2023. -->
